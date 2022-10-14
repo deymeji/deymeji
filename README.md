@@ -3,7 +3,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+<img src="https://raw.githubusercontent.com/deymeji/deymeji/master/banner.png" alt="Banner about Arturs Smirnovs">
 
 
 #### TECH STACK
