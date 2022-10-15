@@ -11,7 +11,7 @@
 
 
 
-## Tecnologías:
+## Habilidades:
 [![Html5](https://img.shields.io/badge/html-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/css-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
