@@ -12,7 +12,7 @@
 
  Estoy interesada en desarrollar mis habilidades como programadora:
 
- 😉 Actualmente estoy aprendiendo diferentes tecnologías y ingles  para mejorar mi experiencia.
+ 😉 Actualmente estoy aprendiendo diferentes tecnologías e ingles  para mejorar mi experiencia.
 
  😉 Busco colaborar en cualquier oportunidad y estoy dispuesta a compartir conocimientos.
 
