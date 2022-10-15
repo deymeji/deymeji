@@ -1,15 +1,20 @@
+
 😜😜🖐Hola mi nombre es Deycis Mejias🖐😜😜
          👀 ❕❕❕Bienvenido❕❕❕ 👀
 
 
+![deyca](https://user-images.githubusercontent.com/97744656/195995927-98f9ce75-f8d7-43bd-8cef-1545cd473673.png)
 
 
 
-<img src="https://i.postimg.cc/QM9YfhvP/1.png/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="200" />
 
 
 
+ Estoy interesada en desarrollar mis habilidades como programadora:
 
+ 😉 Actualmente estoy aprendiendo diferentes tecnologías y ingles  para mejorar mi experiencia.
+
+ 😉 Busco colaborar en cualquier oportunidad y estoy dispuesta a compartir conocimientos.
 
 ## Habilidades:
 [![Html5](https://img.shields.io/badge/html-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
