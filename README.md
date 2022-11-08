@@ -40,7 +40,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@deicydavid-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/deicydavid)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-deicy.mejias-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/deicy.mejias)
-[![LinkedIn](https://img.shields.io/badge/linkedin-deycis-mejias-7b913b211?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin/deycis-mejias-7b913b211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deycis_mejias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/deycis_mejias)
+
+
 
 
 
