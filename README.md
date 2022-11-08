@@ -36,11 +36,11 @@
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@deycis1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@deicydavid-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-@deycis1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/deycis1)
+[![Instagram](https://img.shields.io/badge/Instagram-@deicydavid-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/deicydavid)
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-deicy.mejias-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deycis_mejias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Facebook](https://img.shields.io/badge/Facebook-deicy.mejias-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/deicy.mejias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deycis_mejias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/Deycis_mejias)
 
 
 
